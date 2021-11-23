@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DarrenNie1999
-- 👀 I’m interested in machine learning,bigdata and case analysis
-- 🌱 I’m currently learning statistics in Renmin University of China
-- 💞️ I’m looking to collaborate on big-data lovers
-- 📫 How to reach me 2528695521@qq.com
+- 👀 I’m interested in machine learning,bigdata and data analysis
+- 🌱 I’m currently learning Applied Statistics in Renmin University of China
+- 💞️ I’m looking to collaborate with big-data lovers
+- 📫 How to reach me niedarren@ruc.edu.cn
 
 <!---
 DarrenNie1999/DarrenNie1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
